@@ -1,0 +1,8 @@
+C:\Users\workw\Downloads\TuyetVoi\bin\Debug\TuyetVoi.dll
+C:\Users\workw\Downloads\TuyetVoi\bin\Debug\TuyetVoi.pdb
+C:\Users\workw\Downloads\TuyetVoi\bin\Debug\Renci.SshNet.dll
+C:\Users\workw\Downloads\TuyetVoi\bin\Debug\Renci.SshNet.xml
+C:\Users\workw\Downloads\TuyetVoi\obj\Debug\TuyetVoi.csprojAssemblyReference.cache
+C:\Users\workw\Downloads\TuyetVoi\obj\Debug\TuyetVoi.csproj.CopyComplete
+C:\Users\workw\Downloads\TuyetVoi\obj\Debug\TuyetVoi.dll
+C:\Users\workw\Downloads\TuyetVoi\obj\Debug\TuyetVoi.pdb
